@@ -7,7 +7,7 @@
   - [Active Directory](https://github.com/HecTechDefender/Active-Directory/tree/main) <b><i></b></i>
   - [Windows Workstation](https://github.com/HecTechDefender/Windows-Workstation/blob/main/README.md) <b><i></b></i>
   - [Sysmon](https://github.com/HecTechDefender/Sysmon) <b><i></b></i>
-  - [CrowdSec](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [CrowdSec]( ) <b><i></b></i>
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
