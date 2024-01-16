@@ -6,7 +6,7 @@
   - [pfSense](https://github.com/HecTechDefender/pfSense) <b><i></b></i>
   - [Active Directory](https://github.com/HecTechDefender/Active-Directory/tree/main) <b><i></b></i>
   - [Windows Workstation](https://github.com/HecTechDefender/Windows-Workstation/blob/main/README.md) <b><i></b></i>
-  - [Sysmon](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Sysmon](https://github.com/HecTechDefender/Sysmon) <b><i></b></i>
   - [CrowdSec](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
 - <b>PowerShell</b>
