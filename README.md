@@ -10,8 +10,8 @@
   - [CrowdSec](https://github.com/HecTechDefender/CrowdSec) <b><i></b></i>
 
 - <b>Setting Up A SIEM With Security Onion</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Security Onion Installation](https://github.com/HecTechDefender/Security-Onion/tree/main)
+  - [Malicious PCAP Walkthrough](       )
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
