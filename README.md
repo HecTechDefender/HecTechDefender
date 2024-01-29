@@ -9,8 +9,8 @@
   - [Sysmon](https://github.com/HecTechDefender/Sysmon) <b><i></b></i>
   - [CrowdSec](https://github.com/HecTechDefender/CrowdSec) <b><i></b></i>
 
-- <b>Setting Up A SIEM With Security Onion</b>
-  - [Security Onion Installation](https://github.com/HecTechDefender/Security-Onion/tree/main)
+- <b>Vulnerability Management</b>
+  - [Implementing Vulnerability Management Functions On Sandbox Networks](https://github.com/HecTechDefender/Vulnerability-Management)
   - [Malicious PCAP Walkthrough](       )
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
