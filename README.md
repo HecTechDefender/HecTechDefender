@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Implementation of SIEM Using WAZUHH</b>
+- <b>Implementation of SIEM Using WAZUH</b>
   - [Deploying Wazuh (SIEM) on VMware](https://github.com/HecTechDefender/Deploying-Wazuh-SIEM-on-Linode/blob/main/README.md) <b><i></b></i>
 
 
