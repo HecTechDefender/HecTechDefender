@@ -7,7 +7,7 @@
 
 
 
-- <b>Vulnerability Management</b>
+- <b>Vulnerability Management Using Nessus Essentials</b>
   - [Implementing Vulnerability Management Functions On Sandbox Networks](https://github.com/HecTechDefender/Vulnerability-Management)
 
 
